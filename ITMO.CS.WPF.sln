@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WPF.Pract1", "ITMO.CS.WPF.Pract1\ITMO.CS.WPF.Pract1.csproj", "{D808988E-4D99-40E3-9FA6-21F3668E953D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WPF.Pract1_2", "ITMO.CS.WPF.Pract1_2\ITMO.CS.WPF.Pract1_2.csproj", "{068FA377-B639-4D82-8811-AA141376577E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D808988E-4D99-40E3-9FA6-21F3668E953D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D808988E-4D99-40E3-9FA6-21F3668E953D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D808988E-4D99-40E3-9FA6-21F3668E953D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D808988E-4D99-40E3-9FA6-21F3668E953D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068FA377-B639-4D82-8811-AA141376577E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068FA377-B639-4D82-8811-AA141376577E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068FA377-B639-4D82-8811-AA141376577E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068FA377-B639-4D82-8811-AA141376577E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CBB2A85-AFED-4DC1-874F-DF6ADE650AD7}
+	EndGlobalSection
+EndGlobal
